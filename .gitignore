@@ -1,5 +1,7 @@
 #Git-Ignore
 *.exe
 *.obj
+*.ilk
+*.pdbgit st
 
-
+.vscode/
