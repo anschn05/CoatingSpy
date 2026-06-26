@@ -1,0 +1,46 @@
+ZU VERBESSERN - CoatingSpy0.3
+
+webinterfave ist noch zum scrollen - version... wird abgeschnitten
+symbol für einstellungen hat noch punkt in der mitte - nicht das standardsymbol
+calibration vlt ausschreiben, sollte gut erkennbar sein
++/- für thickness einstellung ist nicht intuitiv für thickness
+(c) für copyright unten ist noch bissl unelegant
+
+brauche noch eine bessere Grafik die die Montage des sensors in der Anleitung darstellt!
+
+hat alte recipes gespeichert gehabt (hinten, vorne, unbeschichtet etc.) vlt nochmal drüber schauen
+
+
+recipes ordnen, nach alphabet, nummer oder vlt sogar filtern, nach front, back, etc.
+beim speichern der recipes die enter-taste aktivieren/inkludieren
+
+Glass nr 4 findet keine dicke, problem mit faktor, dass man halt nicht mal 0 multiplizeiren kann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in beschreibung von amerikanern steht bei Tab definitions:
+Kalibrierung mit stationärem Glas – Die Messung von klarem oder beschichtetem Glas zur 
+Kalibrierung des Schwellenwerts erfolgt anhand einer einzigen Spektralmessung, 
+die beim Klicken auf die Schaltfläche durchgeführt wird. 
+hast du das auch?
+
+
+
+
+
+recipes speichern
+kontrollieren:
+- erkennbar
+- histogramme
+Excel tabelle
